@@ -120,7 +120,7 @@ Customers currently using Azure AD Free as part of their Azure, Microsoft 365, D
 
 ### What's changing for Microsoft 365 or Azure AD for Office 365?
 
-Microsoft Entra ID – currently known as Azure AD – will continue to be available within Microsoft 365 enterprise and business premium offers. Office 365 was renamed Microsoft 365 in 2022. Unique capabilities in the Azure AD for Office 365 apps (such as company branding and self-service sign-in activity search) will now be available to all Microsoft customers in Microsoft Entra ID Free.
+Microsoft Entra ID – currently known as Azure AD – will continue to be available within Microsoft 365 enterprise and business premium offers. Office 365 was renamed Microsoft 365 in 2022. Unique capabilities in the Azure AD for Office 365 apps (such as company branding and self-service sign-in activity search) will now be available to all Microsoft customers in Microsoft Entra ID for free.
 
 ### What's changing for Microsoft 365 E3?
 
@@ -148,7 +148,7 @@ We encourage content creators, organizations with internal documentation for IT 
 
 Replace the product name "Azure Active Directory" or "Azure AD" or "AAD" with Microsoft Entra ID.
 
-*Microsoft Entra* is the correct name for the family of identity and network access solutions, one of which is *Microsoft Entra ID.*
+*Microsoft Entra* is the correct name for the family of identities and network access solutions, one of which is *Microsoft Entra ID.*
 
 ### Logo/icon
 
